@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/IMS/inventory_management_system/src/java/controllers/ItemController.java</file>
+            <file>file:/D:/IMS/inventory_management_system/src/java/controllers/GetItemServlet.java</file>
+            <file>file:/D:/IMS/inventory_management_system/src/java/controllers/LoginController.java</file>
+            <file>file:/D:/IMS/inventory_management_system/src/java/controllers/UserController.java</file>
+            <file>file:/D:/IMS/inventory_management_system/src/java/models/inventoryTblDAO.java</file>
+            <file>file:/D:/IMS/inventory_management_system/src/java/controllers/ReturnController.java</file>
+            <file>file:/D:/IMS/inventory_management_system/web/USER/stock.jsp</file>
+            <file>file:/D:/IMS/inventory_management_system/src/java/controllers/inventoryTblController.java</file>
+            <file>file:/D:/IMS/inventory_management_system/web/USER/issued_items.jsp</file>
+            <file>file:/D:/IMS/inventory_management_system/web/USER/profile.jsp</file>
+            <file>file:/D:/IMS/inventory_management_system/web/USER/manageInventory.jsp</file>
+            <file>file:/D:/IMS/inventory_management_system/src/java/models/PDFGenerator.java</file>
+            <file>file:/D:/IMS/inventory_management_system/web/USER/select_item.jsp</file>
+            <file>file:/D:/IMS/inventory_management_system/web/USER/dashboard.jsp</file>
+            <file>file:/D:/IMS/inventory_management_system/src/java/models/UserDAO.java</file>
+        </group>
+    </open-files>
+</project-private>
